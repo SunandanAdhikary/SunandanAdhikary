@@ -15,7 +15,7 @@ I'm passionate about the intersection of **formal methods**, **control theory**,
 - [Formal Methods Research Group](http://cse.iitkgp.ac.in/~fmres/) at IIT Kharagpur
 
 **Education:**
-- 📚 **Ph.D.** - IIT Kharagpur (2017 - Present, Expected 2025)
+- 📚 **Ph.D.** - IIT Kharagpur (2017 - Present)
 - 🎓 **M.S. (by Research)** - IIT Kharagpur (2018-2021) | CGPA: 9.33/10
 - 🔧 **B.Tech** - Kalyani Government Engineering College (2011-2015) | CGPA: 8.18/10
 
@@ -42,19 +42,19 @@ Modern safety-critical Cyber-Physical Systems (CPS), such as autonomous vehicles
 
 **1. Performance-Aware Dynamic Scheduling**
 - Developed fine-grained dynamic scheduling strategies where control task executions adapt based on real-time performance metrics
-- Ensures desired control quality under varying hardware and network conditions while optimizing resource utilization
+- Ensures desired control quality under varying hardware and network conditions while optimising resource utilisation
 
 **2. Resilience Quantification for Hybrid Systems**
 - Introduced methods for quantifying resilience in real-time hybrid systems using reachability analysis
-- Evaluates safe behavior under network delays and platform noise across operating regions
+- Evaluates safe behaviour under network delays and platform noise across operating regions
 
 **3. Secure Scheduling Against Timing Attacks**
 - Developed secure scheduling techniques to mitigate schedule-based timing inference attacks on automotive Controller Area Networks (CAN)
-- Synthesizes skipped and shifted control executions to hide predictable timing patterns
+- Synthesises skipped and shifted control executions to hide predictable timing patterns
 - Enables protection against side-channel attacks while maintaining strict real-time performance requirements
 
 **4. Safe-by-Design Fallback Controllers**
-- Synthesizing backup safe controllers using Lyapunov-based barrier functions
+- Synthesising backup safe controllers using Lyapunov-based barrier functions
 - When systems approach unsafe boundaries (due to attacks or learning-based component failures), they smoothly switch to mathematically guaranteed fail-safe control modes
 - Adaptive resource reallocation based on system criticality
 
@@ -100,7 +100,7 @@ Establishing a rigorous foundation for structurally resilient, resource-efficien
 
 - **Languages:** C, Embedded C, C++, Python, Java, PHP, Bengali, English, Hindi
 - **Verification & Formal Methods:** z3, dReal, CBMC
-- **Control & Optimization:** Matlab, Simulink, Gurobi, Mosek
+- **Control & Optimisation:** Matlab, Simulink, Gurobi, Mosek
 - **Machine Learning:** OpenAI Gym
 - **Tools:** Flow*, Git, LaTeX, Jekyll
 
@@ -111,28 +111,17 @@ Establishing a rigorous foundation for structurally resilient, resource-efficien
 As a Teaching Assistant at IIT Kharagpur, I've taught and mentored students in:
 - Compilers Theory and Lab
 - Formal Languages and Automata Theory
-- Computer Organization and Architecture Lab
+- Computer Organisation and Architecture Lab
 - High-Performance Computer Architecture
 - Computational Foundations of Cyber-Physical Systems
 - Programming and Data Structures Theory
 
 ---
 
-## 🏆 Achievements & Recognitions
-
-- **Prime Minister's Research Fellow** - India's prestigious research fellowship
-- National Merit Scholarships
-- Robotics Competition Rankings
-- National and State Level Drawing Contests
-- National Talent Search Medals
-- State Level Quiz Contests
-
----
-
 ## 📚 Open Source & Blog
 
 I maintain a personal website and blog covering:
-- State Space Models and Hybrid Architectures for efficient AI
+- State Space Models and Hybrid Architectures for Efficient AI
 - Advances in CPS security and resilience
 - Technical deep-dives into formal methods and control theory
 - Implementation guides and tutorials
@@ -182,5 +171,5 @@ I believe the future of AI in safety-critical domains lies in **transparency, ve
 
 ---
 
-**Last Updated:** April 5, 2026  
+**Last Updated:** April 13, 2026  
 **Status:** Full-time PhD student at IIT Kharagpur ⚡
