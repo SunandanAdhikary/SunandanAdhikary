@@ -2,8 +2,7 @@
 
 I'm a **Ph.D. Scholar** in the Department of Computer Science and Engineering at the [Indian Institute of Technology, Kharagpur](https://www.iitkgp.ac.in/), and a **Prime Minister's Research Fellow**.
 
-<img src="assets/images/me.jpg" alt="Sunandan Adhikary" width="150" style="border-radius: 12px; border: 3px solid #d49176;">
-
+<!-- <img src="assets/images/me.jpg" alt="Sunandan Adhikary" width="150" style="border-radius: 12px; border: 3px solid #d49176;"> -->
 ---
 
 ## 🔬 About Me
@@ -15,7 +14,7 @@ I'm passionate about the intersection of **formal methods**, **control theory**,
 - [Formal Methods Research Group](http://cse.iitkgp.ac.in/~fmres/) at IIT Kharagpur
 
 **Education:**
-- 📚 **Ph.D.** - IIT Kharagpur (2017 - Present)
+- 📚 **Ph.D.** - IIT Kharagpur (2021 - Present)
 - 🎓 **M.S. (by Research)** - IIT Kharagpur (2018-2021) | CGPA: 9.33/10
 - 🔧 **B.Tech** - Kalyani Government Engineering College (2011-2015) | CGPA: 8.18/10
 
